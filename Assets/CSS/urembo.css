@@ -1,0 +1,36 @@
+table{
+    width: 95%;
+    border-collapse: collapse;
+    margin: 20px;
+
+}
+td, th{
+    border: 5px double cadetblue;
+    padding: 15px;
+
+}
+
+th{
+    font-size: 20px;
+    font-family: Chilanka, cursive;
+    color: #cc15cc;
+}
+
+td{
+    font-family: Kalimati;
+    color: darkgreen;
+}
+h2  {
+    font-size: xx-large;
+    text-align: center;
+    font-family: Kinnari;
+
+}
+tr:nth-child(even){
+    background-color: #60676e;
+}
+body{
+    background-image: url("Assets/Images/hawaii-sunset.jpeg");
+}
+
+

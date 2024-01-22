@@ -1,0 +1,62 @@
+label{
+    color: #04641a;
+    font-size: large;
+    font-weight: normal;
+    font-family: C059;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+p{
+    color: #04641a;
+    font-size: large;
+    font-weight: normal;
+    font-family: C059;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.unique{
+    color: #070809;
+    margin-left: 70px;
+    font-size: 17px;
+}
+
+input[type=radio]{
+    border: 0;
+
+
+}
+
+
+h2 {
+    font-size: xx-large;
+    text-align: center;
+    font-family: Kinnari;
+}
+
+input{
+    color: #1b15cc;
+    border-color: #1bd30e;
+    border-radius: 15px;
+    font-size: 15px;
+    width: 25%;
+    height: 30px;
+    font-family: Chilanka;
+    font-weight: bold;
+
+}
+
+.register{
+    background-color: rgb(40, 149, 212);
+    border: 2px solid black;
+    width: 150px;
+    height: 40px;
+    color: #070809;
+    border-radius: 18px;
+    cursor: pointer;
+    margin-left: 200px;
+    margin-top: 50px;
+    font-size: large;
+    font-family: FreeSerif;
+}
